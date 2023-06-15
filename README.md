@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @macaronios aka Macie :)
+- 👋 Hi, I’m @macaronios :)
 - 🌱 I’m currently learning autonomous driving
 - 📫 How to reach me: email: maciepelle@gmail.com
 
